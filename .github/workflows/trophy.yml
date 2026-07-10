@@ -9,11 +9,14 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate trophy image
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: Anshika-hey
-          output_path: trophy.svg
+          file: trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit trophy
