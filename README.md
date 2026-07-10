@@ -39,7 +39,7 @@
 
 | Degree | Institution | Year | Score |
 |---|---|:---:|:---:|
-| B.Tech CSE (AI & ML) | Dronacharya College of Engineering, Gurugram | 2026 | 8.02 / 10 |
+| B.Tech CSE (AI & ML) | Dronacharya College of Engineering, Gurugram | 2028 | 8.02 / 10 |
 | Class XII | M.R.V. Model School, New Delhi | 2024 | 80.8% |
 | Class X | M.R.V. Model School, New Delhi | 2022 | 86.7% |
 
