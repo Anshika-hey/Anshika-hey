@@ -186,7 +186,7 @@ IIT Kharagpur • Apr 2026 • 4 Academic Credits
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Anshika-hey&theme=juicyfresh&no-frame=true&column=7&margin-w=8&margin-h=8&title=Commits,Stars,Repositories,Followers,Issues,PullRequest,Experience"/>
+<img src="https://raw.githubusercontent.com/Anshika-hey/Anshika-hey/main/trophy.svg"/>
 
 </div>
 
