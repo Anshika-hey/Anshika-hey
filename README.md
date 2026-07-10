@@ -1,10 +1,10 @@
-[README (1).md](https://github.com/user-attachments/files/29875581/README.1.md)
+(https://github.com/user-attachments/files/29875697/README.2.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0817,50:2E1065,100:6D28D9&height=220&section=header&text=Anshika%20Chauhan&fontSize=65&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20%7C%20NLP%20%7C%20Systems%20Programming&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=B.Tech+CSE+(AIML)+%40+Dronacharya+College+of+Engineering;Building+NLP+%26+RAG-based+systems;Systems+programming+in+C+%2F+FUSE;Text-to-SQL+%2B+AI+guardrails" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=B.Tech+CSE+(AIML)+Student;Building+NLP+%26+RAG+systems;Systems+programming+in+C%2FFUSE;Text-to-SQL+%2B+AI+guardrails" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -186,7 +186,7 @@ IIT Kharagpur • Apr 2026 • 4 Academic Credits
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Anshika-hey&theme=juicyfresh&no-frame=true&column=7&margin-w=8&margin-h=8&title=Commits,Stars,Repositories,Followers,Issues,PullRequest,Experience"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Anshika-hey&theme=juicyfresh&no-frame=true&column=7&margin-w=8&margin-h=8&title=Commits,Stars,Repositories,Followers,Issues,PullRequest,Experience"/>
 
 </div>
 
