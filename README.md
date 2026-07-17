@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-<a href="https://galaxy-gate-portfolio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://anshikachauhanportfoliowebsite.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://linkedin.com/in/anshika-chauhan-46665236b"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:anshikachauhan835@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Anshika-hey"><img src="https://img.shields.io/badge/GitHub-A78BFA?style=for-the-badge&logo=github&logoColor=black"/></a>
@@ -218,7 +218,7 @@ IIT Kharagpur • Apr 2026 • 4 Academic Credits
 <a href="mailto:anshikachauhan835@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/anshika-chauhan-46665236b"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Anshika-hey"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://galaxy-gate-portfolio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://anshikachauhanportfoliowebsite.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 <br/>
