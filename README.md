@@ -2,9 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0817,50:2E1065,100:6D28D9&height=220&section=header&text=Anshika%20Chauhan&fontSize=65&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=AI%20and%20ML%20%7C%20NLP%20%7C%20Systems%20Programming&descAlignY=58&descSize=18" width="100%"/>
 
-<div align="center">
-<video src="https://github.com/user-attachments/assets/c02c675f-95b0-43f1-80db-7f1a7c8b375f" autoplay loop muted playsinline width="100%"></video>
-</div>
+<!--
+  VIDEO SLOT — once your upload to GitHub succeeds, paste the
+  github.com/user-attachments/... URL below and delete the two
+  comment markers around it to make it live.
+
+  <video src="PASTE_GITHUB_USER_ATTACHMENTS_URL_HERE" autoplay loop muted playsinline width="100%"></video>
+-->
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=B.Tech+CSE+(AIML)+Student;Building+NLP+%26+RAG+systems;Systems+programming+in+C%2FFUSE;Text-to-SQL+%2B+AI+guardrails" alt="Typing SVG" />
