@@ -1,7 +1,10 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0817,50:2E1065,100:6D28D9&height=220&section=header&text=Anshika%20Chauhan&fontSize=65&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=AI%20and%20ML%20%7C%20NLP%20%7C%20Systems%20Programming&descAlignY=58&descSize=18" width="100%"/>
+
+<div align="center">
+<video src="https://github.com/user-attachments/assets/c02c675f-95b0-43f1-80db-7f1a7c8b375f" autoplay loop muted playsinline width="100%"></video>
+</div>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=B.Tech+CSE+(AIML)+Student;Building+NLP+%26+RAG+systems;Systems+programming+in+C%2FFUSE;Text-to-SQL+%2B+AI+guardrails" alt="Typing SVG" />
@@ -59,15 +62,23 @@
 
 **Data Science**
 
-`spaCy` `NLTK` `Sentence-Transformers` `scikit-learn` `PyPDF2` `pandas` `NumPy`
+<img src="https://skillicons.dev/icons?i=sklearn" height="40"/>
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" height="28"/>
+<img src="https://img.shields.io/badge/Sentence--Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/NLTK-6D28D9?style=for-the-badge&labelColor=0F0817"/>
+<img src="https://img.shields.io/badge/PyPDF2-7C3AED?style=for-the-badge&labelColor=0F0817"/>
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/> `DBMS`
+<img src="https://skillicons.dev/icons?i=mysql,supabase&theme=dark"/> `DBMS`
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,apple&theme=dark"/> `Google Colab` `GitHub Pages`
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,apple,vercel,netlify&theme=dark"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white&labelColor=0F0817"/>
+`Google Colab` `GitHub Pages`
 
 ---
 
